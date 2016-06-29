@@ -9,6 +9,17 @@ Speziell für Wien gibt's sehr genaue Daten (50/50/10cm in x/y/z-Richtung)
 von der MA41 aus dem Jahre 2007. Danke an die Funkfeuer-Mailingliste für 
 den Link, https://www.wien.gv.at/stadtentwicklung/stadtvermessung/geodaten/
 
+**Lizenzhinweis:** "Die im Rahmen von Open Government Data Wien veröffentlichten 
+Daten" (hier konkret sind die Geodaten betroffen) "stehen unter einer Creative 
+Commons Namensnennung 3.0 Österreich Lizenz. Datenquelle: Stadt Wien -- data.wien.gv.at"
+
+Überblick zur Lizenz: https://creativecommons.org/licenses/by/3.0/at/deed.de
+
+Weitere Nutzungsbedingungnen: https://open.wien.gv.at/site/open-data/nutzungsbedingungen/
+
+
+# Datenbeispiel
+
 Hier ein Beispielbild für den Quadranten `55_1` ([Datenquelle](https://www.wien.gv.at/ma41datenviewer/downloads/ma41/geodaten/dom_tif/55_1_dom.zip); [OSM: Wien Liesing zwischen A23 Knoten Inzersdorf im Westen und der Laxenburger Straße im Osten](https://www.openstreetmap.org/search?query=wien%20liesing#map=15/48.1444/16.3497)), 
 mittels `gdal_translate` aus GeoTIFF zu PNG gemacht, und dann für's Auge den Kontrast erhöht:
 
