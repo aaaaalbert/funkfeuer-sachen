@@ -34,6 +34,7 @@ are defined. The format is ``channelnumber|lowerfreq|bandwidth'', again
 field/record separated by ``|'' and ``~''.
 > > 180|4900000000|20000000~181|4905000000|20000000~182|4910000000|20000000~183|4915000000|20000000~
 (...)
+
 Lastly, units of measurement, unknown data, and the supported frequency 
 range in MHz follows:
 > > ,,1,dbm,dBm - detected power per carrier,1,-150,4900,6400
@@ -42,6 +43,7 @@ The app then specifies which frequency range the device should analyse,
 followed by an acknowledgement by the device:
 > REQUEST RANGE: 5725000000,5825000000
 > > SCAN RANGE: 5725000000,5825000000
+
 > START SCAN: 
 > > RESULT: 0
 
