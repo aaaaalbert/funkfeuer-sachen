@@ -4,7 +4,8 @@ Ubiquiti devices like my NanoBridge M5 here include a nifty WLAN
 spectrum analyser, "airView". It is launched as a [JNLP](https://en.wikipedia.org/wiki/Java_Web_Start#Java_Network_Launching_Protocol_.28JNLP.29)
 via the Ubiquiti web interface. @alex-eri also presents 
 a [method](https://github.com/alex-eri/airview-ssh/blob/master/runairview.sh) 
-to launch it over SSH.
+to launch it over SSH, the gist of which seems to be to run `/sbin/airview`
+on the router and SSH-tunnel the TCP port to the client.
 
 I took a packet trace using [Wireshark](https://wireshark.org/) to 
 look at the actual protocol used between the JNLP app and the device. 
@@ -60,5 +61,5 @@ Finally, the app may stop the measurement:
 -----
 
 Now wouldn't it be great to interface this with a browser-based 
-spectrum analyser like http://websdr.org's?
+spectrum analyser like ~~websdr.org (not FOSS)~~ https://github.com/elafargue/html5?
 
