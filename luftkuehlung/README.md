@@ -1,6 +1,6 @@
 # Luftkühlung
 
-Das [Nomogramm](https://github.com/aaaaalbert/funkfeuer-sachen/blob/master/luftkuehlung/nomogramm.pdf)
+Das [Nomogramm](https://github.com/aaaaalbert/funkfeuer-sachen/blob/master/luftkuehlung/nomogramm_luftkuehlung.pdf)
 in diesem Verzeichnis drückt aus, mit welcher umgesetzten
 Luftmenge bei welchem Temperaturgefälle welche Leistung abgeführt werden
 kann, bzw. Umkehraufgaben davon.
