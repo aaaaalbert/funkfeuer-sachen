@@ -50,3 +50,13 @@ Der Raum mit der Bezeichnungen
 * Hausform: https://www.wien.gv.at/stadtplan/grafik.aspx?Adr_Str=Rathausstrasse
   sowie Luftbilder der Stadt Wien
 * Gang, Räume und Raumbezeichnungen nach eigenen Aufzeichnungen
+* Banane via [OpenClipart](https://openclipart.org/detail/314951/banana-2)
+
+# Lizenzhinweise
+* Der "Alte Grundriss" ist von ~1880.
+* Daten der Stadt Wien: "Die im Rahmen von Open Government Data
+  Wien veröffentlichten Daten stehen unter einer Creative Commons
+  Namensnennung 3.0 Österreich Lizenz. Datenquelle: Stadt Wien --
+  data.wien.gv.at"
+* Zusammenführung, Gesamtdarstellung, Banane: CC0
+
