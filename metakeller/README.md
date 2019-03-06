@@ -42,7 +42,7 @@ Der Raum mit der Bezeichnungen
 * "28" und "1" mit Sperrmüll verstellt
 * "H3" und "Partykeller" mit 20-25 Kubikmeter Aushub belegt
 * "Kohlen mit Luft" mit ~15 Kubikmeter Heizkoks belegt
-* "Kohlen" detty
+* "Kohlen" detto
 
 
 # Quellen
