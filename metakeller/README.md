@@ -14,12 +14,12 @@ Gezeigt werden im Maßstab 1:100
 * (grau, linke Hälfte) der Originalplan des Souterrains von ~1880,
 * (hellrot)
   * die Hausform gemäß Stadplan bzw. Luftbild der Stadt Wien, sowie
-  * einige Nicht-Metalab-Räume,
-* (gelb) der Gang im Keller,
-* (grün) Räume,
-  * in eckiger Form, wenn ausgemessen, und
+  * einige Nicht-Metalab-Räume im Souterrain,
+* (gelb) der Gang im Keller (in ungefährer Lage, nicht gemessen),
+* (grün) Räume im Keller,
+  * in eckiger Form, wenn mit Rollmaßband ausgemessen, und
   * "runde Ecken", wenn Lage / Größe nur ungefähr.
-* (auch grün, rechts oben) "WE Wien Energie", die ungefähre Lage des
+* (auch grün, rechts unten) "WE Wien Energie", die ungefähre Lage des
   Wien-Energie-Raums im Keller.
 
 
