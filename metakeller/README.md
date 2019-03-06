@@ -4,6 +4,12 @@ Diese [Planskizze](https://github.com/aaaaalbert/funkfeuer-sachen/blob/master/me
 stellt die Lage und Größe einiger Kellerräume unter dem
 [Metalab](https://metalab.at/) dar.
 
+Kontext: Wir von @FunkFeuer
+[suchen](https://wiki.funkfeuer.at/wiki/Projekte/Housing/Umzug)
+einen neuen [Standort](https://wiki.funkfeuer.at/wiki/Vorschl%C3%A4ge_Locations)
+für das [FunkFeuer Community Housing](https://housing.funkfeuer.at/)
+und haben spezielle [Bedürfnisse](https://wiki.funkfeuer.at/wiki/Krypta-Fakten).
+
 Gezeigt werden im Maßstab 1:100
 * (grau, linke Hälfte) der Originalplan des Souterrains von ~1880,
 * (hellrot)
