@@ -17,39 +17,53 @@ Gezeigt werden im Maßstab 1:100
   * einige Nicht-Metalab-Räume im Souterrain,
 * (gelb) der Gang im Keller (in ungefährer Lage, nicht gemessen),
 * (grün) Räume im Keller,
-  * in eckiger Form, wenn mit Rollmaßband ausgemessen, und
+  * in eckiger Form, wenn mit LASER ausgemessen, und
   * "runde Ecken", wenn Lage / Größe nur ungefähr.
-* (auch grün, rechts unten) "WE Wien Energie", die ungefähre Lage des
-  Wien-Energie-Raums im Keller.
+* (blau)
+  * "WE Wien Energie", die ungefähre Lage des Wien-Energie-Raums im Keller
+  * möglicher Ort eines Housing-Stromzählers, ab dem wir die Zuleitung bauen
+  * zu überwindende Höhen bis zu Fenster, die zu Außenluft führen
+* (schwarz) ein 5x5-Meter-Suchraster mit Spalten- und Zeilenbeschriftungen
+
+Die Wegstrecke Raum H3-WE (Dark Fiber) beträgt ungefähr 55m.
+Die Wegstrecke Raum H3-Stromzähler (Drehstromzuleitung) beträgt ungefähr 30m .
 
 
 ## Raumdetails
 
 #### Größe
 Der Raum mit der Bezeichnungen
-* "1", "26", "Kohlen", "WC" und "Abluft" wurde nicht ausgemessen
-* "28" misst ca. 2,5x5m, 2,5 bis 3m hoch (Gewölbe)
-* "H3" misst ca. 3x6m, 2 bis 2,5m hoch (Gewölbe)
-* "Partykeller" misst ca. 6x6m, 2 bis 2,5m hoch (Gewölbe); N.B.
-  den Raumteiler (volle Mauer von Hausgrenze bis in die Raummitte),
-  der im Plan noch nicht eingezeichnet ist.
-* "Kohlen mit Luft" misst ca. 3x4,5m, 2 bis 2,5m hoch (Gewölbe)
+* "28" misst 9,3m^2 (4,05x2,3m, 2,8m hoch, rechts niedriger wegen Gewölbe
+  Richtung Rathausstraße)
+* "H3" misst 19,2m^2 (3,2x6m, 2 bis 2,6m hoch, Gewölbe, links/rechts niedriger)
+* Im Gang hin zu "H3" sind Richtung Hof (in Planlage unten) drei Fensterluken
 
 #### Belüftung
-* "1" hat keinen Schacht.
-* "26", "28" und "Kohlen mit Luft" haben einen Lüftungsschacht nach
-  (in Planlage) links hinaus, neben dem Eingang des Metalab.
+* "28" hat einen Lüftungsschacht nach (in Planlage) links hinaus, neben
+  dem Eingang des Metalab.
 * Raum "H3" lüftet nach rechts in den Innenhof.
-* Der "Partykeller" hat eine vorhandene Belüftungsanlage, die nach links
-  in die "Abluft" geht.
 
 #### Belegung
-* "26" ist aktuell nicht verfügbar
-* "28" und "1" mit Sperrmüll verstellt
-* "H3" und "Partykeller" mit 20-25 Kubikmeter Aushub belegt
-* "Kohlen mit Luft" mit ~15 Kubikmeter Heizkoks belegt
-* "Kohlen" detto
+* "28" mit Sperrmüll verstellt
+* "H3" ist mit 17 Kubikmeter lehmigem Aushub belegt
 
+##### Nicht verfügbare Räume
+Diese Räume sind belegt, nicht vermietbar, ungeeignet o.ä.
+* "1", "26", "WC" und "Abluft" wurden nicht ausgemessen
+* "1" und "26" sind belegt (Sperrmüll) bzw. vermietet
+* "1" hat keinen Schacht zur Straße hinaus
+* "26" hat einen Lüftungsschacht nach (in Planlage) links hinaus, neben
+  dem Eingang des Metalab.
+* "Partykeller" misst 5,4x5,6m, knapp 2,8m hoch (Gewölbe); N.B.
+  den Raumteiler (volle Mauer von Hausgrenze bis in die Raummitte),
+  der im Plan noch nicht eingezeichnet ist.
+* "Partykeller" ist mit 20-25 Kubikmeter Aushub belegt
+* "Partykeller" hat eine vorhandene Belüftungsanlage, die nach links
+  in die "Abluft" geht.
+* "Kohlen" misst 3,2x3,15m
+* "Kohlen mit Luft" misst 3,18x4,54m, 2 bis 2,5m hoch (Gewölbe)
+* "Kohlen" hat keinen Schacht zur Frischluft hinaus
+* "Kohlen" und "Kohlen mit Luft" sind mit je ~15 Kubikmeter Heizkoks belegt
 
 # Quellen
 * S/W-Underlay links: https://metalab.at/wiki/Grundriss, "Alter Grundriss" von ~1880
