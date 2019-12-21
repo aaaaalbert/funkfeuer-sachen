@@ -11,28 +11,37 @@ für das [FunkFeuer Community Housing](https://housing.funkfeuer.at/)
 und haben spezielle [Bedürfnisse](https://wiki.funkfeuer.at/wiki/Krypta-Fakten).
 
 Gezeigt werden im Maßstab 1:100
-* (hellrot) die Kellerfläche
-* (gelb) der Gang im Keller (in ungefährer Lage, nicht gemessen),
-* (blau) "WE" für "Wien Energie", die ungefähre Lage des Wien-Energie-Raums im Keller
-* (schwarz strichliert) die Lage und Maße eines Luftschachts, der in den VKM-Innenhof führt
+* die Kellerfläche inklusive jenes grünen Bereichs, wo die Deckenhöhe ("roh",
+  das heißt ohne Verkleidung) mindestens 2,2m betrögt
+* das Wendeltreppenstiegenhaus
+* Teile des Gangs im Keller
+* die Wand Richtung Wien-Energie-Raum
 
-Die Wegstrecke Raum-WE beträgt unter 5m.
-Ort für Stromzähler (Drehstromzuleitung) haben wir noch keinen gesucht.
+Die Lage des Plans ist im Vergleich zur Vorlage um knappe 5 Grad gedreht,
+sodass die linke Wand des Raumes senkrecht am Papier liegt. Der angenommene
+Ursprung für das hellgraue Meterraster ist mit einem roten Pfeil eingezeichnet.
 
+Vorsicht, der Innenwinkel des Raums zwischen linker und oberer Wand beträgt
+nur gute 87, keine 90 Grad! Insgesamt ist der ganze Raum etwas schief.
 
 ## Raumdetails
 
 #### Größe
-Der Raum misst 23,5m^2 (6,27x3,75m, 1,5 bis 2m hoch, Gewölbe in Längsrichtung).
+Der Raum misst 22,5m^2 (6,27x3,76m, 1,27 bis 2,55m hoch, Gewölbe in
+Längsrichtung).
 
 #### Belüftung
-Ein gebogener gemauerter Schacht von 63x60cm (Größe der Öffnung) führt über Umwege in den Innenhof des VKM. Der Raum ist gefühlsmäßig sehr warm für einen Kellerraum, 22°C aufwärts würde ich sagen.
+Ein gebogener gemauerter Schacht von 63x60cm (Größe der Öffnung) führt
+über Umwege in den Innenhof des VKM. Der Raum ist gefühlsmäßig sehr warm
+für einen Kellerraum, 22°C aufwärts würde ich sagen.
 
 
 # Quellen
-* Gang und Raum nach eigenen Aufzeichnungen
+* Plan der MA34 von 2015
+* Ergänzung nach eigenen Aufzeichnungen
 * Banane via [OpenClipart](https://openclipart.org/detail/314951/banana-2)
 
 # Lizenzhinweise
-* Darstellung, Banane: CC0
+* Grundlage (c) MA34
+* Gesamtdarstellung, Banane: CC0
 
